@@ -66,3 +66,11 @@ Soft Skills:
 - [x] Designing user-centric reports with empathy in mind.
 - [x] Optimization of report generation through meticulous fine-tuning.
 - [x] Developing a systematic approach to devising a report building plan.
+
+# Report Links
+
+- [Customer Performance Report](https://github.com/pratik3232/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
+- [Market Performance and Sales Targets Comparison Report](https://github.com/pratik3232/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+- [Profit and Loss (P&L) Reports by Fiscal Year and Months](https://github.com/pratik3232/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [Profit and Loss (P&L) Reports by Markets](https://github.com/pratik3232/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+- [Profit and Loss (P&L) Reports by Months](https://github.com/pratik3232/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf)
